@@ -8,7 +8,7 @@ To complete this homework you should use the Git workflow you've been learning t
 4. In VSCode, create a local branch called `bio-page`
 5. Create a new file called `FIRSTNAME_LASTNAME.md`
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
-6. In this file, write an introduction yourself. You should include:
+6. Inile,  write an introduction yourself. You should include:
    1. My name is Yesirat Adeboye
    2. My favourite sport is swimming because it helps me relax.
    3. My favourite food is Rice and fish stew because it's easy to prepare and full of nourishment.
